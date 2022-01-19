@@ -4,5 +4,3 @@
 
 
 ##### [GitHub CV](https://github.com/Alex969/CV)
-
-##### *Here for a great time*
